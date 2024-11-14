@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Faizan
+- 👋 Hi, I’m Faizan , a frontEnd developer
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on real world projects
